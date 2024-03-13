@@ -1,4 +1,4 @@
-# Solar activity forecast
+# Forecasting the solar activity
 The goal of this project is to examine the structure of the time series of solar activity indices and predict the shape and amplitude of the 25th solar cycle. 
 
 # Data sources
@@ -28,3 +28,8 @@ The forecast for the 25th solar cycle indicates that the maximum value of 184.9 
 
 One can also compare observations that are smoothed over 8.8 months with the forecast:
 ![image](https://github.com/irinazobova/solar-activity-forecast/assets/141981835/0acc90aa-5ddb-4c83-aaa6-cb49232540a7)
+
+# Additional information
+To learn more about the physical concept of solar activity:
+*  Hathaway, D. H. (2015). The solar cycle. Living reviews in solar physics, 12(1), 4. 
+*  http://solarcyclescience.com/
