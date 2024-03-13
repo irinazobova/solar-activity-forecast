@@ -29,7 +29,7 @@ To decompose multidimensional series into a generalized Fourier-Walsh series, th
 The forecast for the 25th solar cycle indicates that the maximum value of 184.9 will be reached by the smoothed over 8.8 months SSN in September 2025. The forecast (red line) correlates with observational data (black line) up to January 2024:
 ![image](https://github.com/irinazobova/solar-activity-forecast/assets/141981835/f9629652-7f2e-4db0-98ad-4ca7841bd554)
 
-One can also compare observations that are smoothed over 8.8 months with the forecast:
+One can also compare the forecast with observations that are smoothed over 8.8 months:
 ![image](https://github.com/irinazobova/solar-activity-forecast/assets/141981835/0acc90aa-5ddb-4c83-aaa6-cb49232540a7)
 
 # Additional information
