@@ -2,7 +2,7 @@
 The goal of this project is to examine the structure of the time series of solar activity indices and predict the shape and amplitude of the 25th solar cycle.
 
 # About the repository
-File solar-forecast.py performs the analysis. Files input.csv and sc25-input.csv are the main data sources, and file timeframe-wiki.txt is used for obtaining additional information about solar cycles. More about the dataset below.
+File solar-forecast.py performs the analysis. Files input.csv and sc25input.csv are the main data sources, and file timeframe-wiki.txt is used for obtaining additional information about solar cycles. More about the dataset below.
 
 # Data sources
 To forecast the solar cycle, *monthly mean total sunspot number (SSN)* data is used (source: [WDC-SILSO](https://www.sidc.be/SILSO/datafiles), Royal Observatory of Belgium, Brussels). Data description:
