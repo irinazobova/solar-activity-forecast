@@ -35,3 +35,4 @@ One can also compare the forecast with observations that are smoothed over 8.8 m
 To learn more about the physical concept of solar activity:
 *  Hathaway, D. H. (2015). The solar cycle. Living reviews in solar physics, 12(1), 4. 
 *  http://solarcyclescience.com/
+This project is under development until June 2024.
